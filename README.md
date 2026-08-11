@@ -48,7 +48,9 @@ Software engineering intern focused on full-stack web development and problem so
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashasviopkey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasviopkey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashasviopkey&theme=tokyonight" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashasviopkey&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashasviopkey&theme=tokyonight&utcOffset=5.5" />
 
 </div>
