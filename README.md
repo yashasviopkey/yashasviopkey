@@ -44,13 +44,22 @@ Software engineering intern focused on full-stack web development and problem so
 
 ---
 
-## GitHub Stats
+## What I Work On
+
+- Full-stack feature development across the frontend and backend
+- Debugging and resolving issues in existing production code
+- Writing and maintaining tests to keep changes safe to ship
+- Reviewing code and collaborating through pull requests
+
+> Most of my day-to-day work lives in private organisation repositories, so it
+> is not reflected in the public activity below.
+
+---
+
+## Activity
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashasviopkey&theme=tokyonight" />
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashasviopkey&theme=tokyonight" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashasviopkey&theme=tokyonight&utcOffset=5.5" />
 
 </div>
